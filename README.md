@@ -27,8 +27,24 @@ Make sure you have installed:
 - npm/bun or yarn
 
 ### Installation
-Clone the repository:
+1. Clone the repository:
 ```sh
 git clone https://github.com/anfastech/turbo-ide-simulator
 cd turbo-ide-simulator
 ```
+2. Install dependencies:
+```bash
+npm install
+```
+3. Start the development server:
+```bash
+npm run dev
+```
+
+Open your browser and navigate to:
+```text
+http://localhost:3000
+```
+---
+Thankyou!
+
